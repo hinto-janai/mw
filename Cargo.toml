@@ -1,0 +1,18 @@
+[package]
+name        = "mw"
+version     = "0.0.0"
+edition     = "2021"
+description = "Monero wrapper"
+license     = "MIT"
+authors     = ["hinto-janai"]
+repository  = "https://github.com/hinto-janai/mw"
+keywords    = ["monero", "wallet", "cli", "wrapper"]
+
+[features]
+default = []
+
+[dependencies]
+
+# Optional features.
+
+[dev-dependencies]
